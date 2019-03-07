@@ -1027,9 +1027,9 @@
 
   // Set the boundaries for probing (where the probe can reach).
   #define LEFT_PROBE_BED_POSITION 10
-  #define RIGHT_PROBE_BED_POSITION 300
+  #define RIGHT_PROBE_BED_POSITION 290
   #define FRONT_PROBE_BED_POSITION 20
-  #define BACK_PROBE_BED_POSITION 210
+  #define BACK_PROBE_BED_POSITION 180
 
   // Probe along the Y axis, advancing X after each column
   //#define PROBE_Y_FIRST
